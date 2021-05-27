@@ -1,0 +1,197 @@
+body {
+  font-family: Georgia, '游明朝', YuMincho, 'Hiragino Mincho ProN', Meiryo, serif;
+  margin: 80px;
+}
+header {
+  width: 1000px;
+  margin: 0 auto;
+}
+.heddcontent {
+display: flex;
+margin-bottom: 40px;
+}
+.headtitle {
+  margin-right: 120px;
+}
+.headtitle h1 {
+  font-size: 38px;
+  margin-bottom: 0;
+}
+.headtitle > p {
+color: #777;
+margin: 0;
+}
+.headmenu {
+  padding-top: 15px;
+  padding-left: 0px;
+  margin-left: 30px;
+}
+.headmenu ul {
+  list-style: none;
+  display: flex;
+  margin-top: 60px;
+}
+.headmenu li {
+letter-spacing: 2px;
+padding-left: 0.8rem;
+}
+.searchimg {
+  width: 25px;
+  height: 25px;
+}
+.contact {
+  margin-right: 10px;
+}
+.searchicon {
+  height: 25px;
+}
+.concept {
+  width: 1000px;
+  margin: 0 auto;
+}
+.searchicon {
+  margin-top: 70px;
+  padding-left: 230px;
+}
+.concept p {
+  font-size: 30px;
+  color: #777;
+}
+.WritePhoto {
+  width: 1000px;
+}
+.BigContent {
+  width: 1000px;
+  margin: 0 auto;
+  margin-top: 7rem;
+}
+.BigContent > ul {
+  list-style: none;
+  padding: 0;
+}
+.BigContent li {
+  display: flex;
+}
+.data {
+  margin-right: 5rem;
+  color: #777;
+}
+.SmaCont {
+  width: 80%;
+}
+.SmaCont > h2 {
+  margin: 0;
+  font-size: 20px;
+}
+.SmaCont > p {
+  margin: 0;
+  padding: 30px;
+  padding-left: 0;
+  color: #777;
+}
+.NexBu ul {
+list-style: none;
+display: flex;
+justify-content: center;
+margin-bottom: 8rem;
+}
+.NexBu a {
+font-size: 0.9rem;;
+border: solid 1px #ccc;
+padding: 0.8rem 1rem;
+margin-right: 1rem;
+text-decoration: none;
+}
+.first {
+  background-color: #eee;
+  font-weight: bold;
+}
+.last {
+  font-size: small;
+  padding-left: 0.5rem;
+}
+.profile {
+font-size: 15px;
+border-top: solid 1px #777;
+border-bottom: solid 1px #777;
+width: 1000px;
+margin: 0 auto;
+padding: 8rem;
+display: flex;
+}
+.detaandna {
+  display: flex;
+}
+.mainpro {
+  display: flex;
+  flex-direction: column;
+  width: 30%;
+  margin-right: 1.1rem;
+}
+.selfintro {
+  font-size: normal;
+}
+.footerri, .receblo, .catesea {
+  width: 25%;
+  padding:  0 2rem;
+}
+.namesns strong {
+  font-size: 1.3rem;
+}
+.snsicon {
+  padding-top: 1rem;
+}
+.snsicon img {
+width: 1rem;
+height: 1rem;
+padding-right: 0.2rem;
+}
+.proface {
+    width: 100ox;
+    height: 100px;
+    border-radius: 50px;
+    margin-right: 2rem;
+}
+.receblo > a {
+  border-bottom: solid 1px #788;
+  font-size: 18px;
+  margin-bottom: 3rem;
+}
+.recetame {
+  padding: 0.5rem;
+}
+.recetame a {
+  line-height: 35px;
+  border-bottom: 0.5px solid #777;
+}
+.catesea {
+  padding-left: 0;
+}
+.catesea a {
+  line-height: 40px;
+  border-bottom: 0.5px solid #777;
+}
+.catesea div {
+ list-style: none;
+}
+input {
+  padding: 0.3rem;
+  margin-top: 4rem;
+}
+.data {
+  padding-right: 0;
+}
+.snsicona {
+  width: 0.3rem;
+  height: 0.3rem;
+  display: flex;
+}
+.snsicona a {
+  padding-right: 0.6rem;
+}
+.snsicona {
+  margin-top: 3rem;
+}
+.copyright {
+  text-align: center;
+}
